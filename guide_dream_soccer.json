@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app": "5e99574b35810c06f487c022",
-    "banner_setting": "ca-app-pub-3012698338439910/6837398871",
-    "inter_setting": "ca-app-pub-3012698338439910/5231613676",
-    "banner_main": "ca-app-pub-3012698338439910/5255664403",
-    "inter_main": "ca-app-pub-3012698338439910/2127826236"
+    "banner_setting": "ca-app-pub-3012698338439910/5255664403",
+    "inter_setting": "ca-app-pub-3012698338439910/2127826236",
+    "banner_main": "ca-app-pub-3012698338439910/6837398871",
+    "inter_main": "ca-app-pub-3012698338439910/5231613676"
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
