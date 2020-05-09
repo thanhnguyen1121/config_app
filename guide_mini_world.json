@@ -9,14 +9,20 @@
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
-    "is_show_more": false
+    "is_show_more": true
   },
   "apps": [
     {
-      "id": "com.king.candycrushsaga",
-      "icon": "https://lh3.googleusercontent.com/nH7Fy5zzUuU5ZXNbmCNL1ExKEpObT17IIsvYBYLoGjtUKpsf_tTfX9C8fCmauQ9oQ65Y=s180-rw",
-      "name": "Call of Duty: Mobile VN",
-      "des": "Là tựa game xuất sắc giành được các danh hiệu cao nhất của Google Play Awards 2019:"
+      "id": "com.wall.blockmod.miniworld",
+      "icon": "https://lh3.googleusercontent.com/edy_oqvnwe3qI2VsAquhomu-jXsCXbfl1yOwQ6TPCk64C4HBZlAdD2fUykbG50L9NQ=s180-rw",
+      "name": "Wallpapers: Mini world blocks",
+      "des": "Block world wallpapers free and hot background mini block Images"
+    },
+    {
+      "id": "com.blockmod.miniworld.guide.v2",
+      "icon": "https://lh3.googleusercontent.com/qbJFPrqB5hpEKWjnqcHAVS0OHhQDaMZE1hwEKxo9Mb3kEqymFZuo0BxQWFjzY--o4q01=s180-rw",
+      "name": "Tips: Mini world blocks 2",
+      "des": "Tips art Mini World block was created to help new players study the moves so they can improve at play this Game."
     }
   ]
 }
