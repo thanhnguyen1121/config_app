@@ -1,0 +1,93 @@
+{
+pk: "8",
+artist: "monsterZ",
+banner: "http://1.2.3.40:8000/media/banner/images.jpg",
+lastest: [
+{
+pk: "25",
+image: "http://1.2.3.40:8000/media/image/07a7784c74fe8ea0d7ef.jpg",
+url: "http://1.2.3.40:8000/media/video/5419295213372289706.mp4",
+title: "Chinna cute girl",
+artist: "monsterZ",
+time: "00:13",
+isTrend: "True",
+isPopular: "False",
+isLatest: "True",
+artistPK: "8"
+}
+],
+popular: [
+{
+pk: "24",
+image: "http://1.2.3.40:8000/media/image/b8e579b84b0ab154e81b.jpg",
+url: "http://1.2.3.40:8000/media/video/9115744662285569230.mp4",
+title: "Miumiumeo girl cute",
+artist: "monsterZ",
+time: "00:13",
+isTrend: "True",
+isPopular: "True",
+isLatest: "False",
+artistPK: "8"
+},
+{
+pk: "26",
+image: "http://1.2.3.40:8000/media/image/65e7e91ae0a81af643b9.jpg",
+url: "http://1.2.3.40:8000/media/video/7353276023484701084.mp4",
+title: "Cute girl, idolface",
+artist: "monsterZ",
+time: "00:15",
+isTrend: "False",
+isPopular: "True",
+isLatest: "False",
+artistPK: "8"
+},
+{
+pk: "29",
+image: "http://1.2.3.40:8000/media/image/6f49ff0be3b919e740a8.jpg",
+url: "http://1.2.3.40:8000/media/video/3473952705073009745.mp4",
+title: "Beautyfull face, bống idolface",
+artist: "monsterZ",
+time: "00:13",
+isTrend: "True",
+isPopular: "True",
+isLatest: "False",
+artistPK: "8"
+},
+{
+pk: "30",
+image: "http://1.2.3.40:8000/media/image/c69db5f4ac4656180f57.jpg",
+url: "http://1.2.3.40:8000/media/video/4622587666520505797.mp4",
+title: "Chinna beautyfull girl",
+artist: "monsterZ",
+time: "00:15",
+isTrend: "True",
+isPopular: "True",
+isLatest: "False",
+artistPK: "8"
+},
+{
+pk: "32",
+image: "http://1.2.3.40:8000/media/image/6b85430b51b9abe7f2a8.jpg",
+url: "http://1.2.3.40:8000/media/video/6885084105883937243.mp4",
+title: "Cute girl, idolface",
+artist: "monsterZ",
+time: "00:08",
+isTrend: "True",
+isPopular: "True",
+isLatest: "False",
+artistPK: "8"
+},
+{
+pk: "33",
+image: "http://1.2.3.40:8000/media/image/e3fb9ca0f7120d4c5403.jpg",
+url: "http://1.2.3.40:8000/media/video/3682748286286903381.mp4",
+title: "China cute girl dane",
+artist: "monsterZ",
+time: "00:10",
+isTrend: "True",
+isPopular: "True",
+isLatest: "False",
+artistPK: "8"
+}
+]
+}
