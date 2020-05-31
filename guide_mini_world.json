@@ -5,7 +5,7 @@
     "inter_setting": "ca-app-pub-3012698338439910/7735262169",
     "banner_main": "ca-app-pub-3012698338439910/8172330147",
     "inter_main": "ca-app-pub-3012698338439910/6667676781",
-    "onlyAdmod": false,
+    "onlyAdmod": true,
     "fb_banner":"186918972506201_186920029172762",
     "fb_inter":"186918972506201_186919649172800"
   }, 
