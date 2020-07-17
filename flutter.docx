@@ -1,0 +1,3 @@
+        _viewModel.data = _viewModel.data.map((element) {
+          return {...element, "lock": false};
+        }).toList();
