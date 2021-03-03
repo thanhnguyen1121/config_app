@@ -1,11 +1,11 @@
 {
   "ads": {
     "id_app": "5ea6a92535810c06f487c028",
-    "banner_setting": "ca-app-pub-2277813866725244/5518702175",
-    "inter_setting": "ca-app-pub-2277813866725244/3525580767",
-    "banner_main": "ca-app-pub-2277813866725244/7953293822",
-    "inter_main": "ca-app-pub-2277813866725244/6640212159",
-    "onlyAdmod": false,
+    "banner_setting": "ca-app-pub-3808538861504199/8448993557",
+    "inter_setting": "ca-app-pub-3808538861504199/9849705138",
+    "banner_main": "ca-app-pub-3808538861504199/3196666874",
+    "inter_main": "ca-app-pub-3808538861504199/5631258520",
+    "onlyAdmod": true,
     "fb_banner":"186918972506201_186920029172762",
     "fb_inter":"186918972506201_186919649172800"
   }, 
